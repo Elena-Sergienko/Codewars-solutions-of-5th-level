@@ -1,3 +1,3 @@
 # Codewars-solutions-of-5th-level
 Solutions
-First non-repeating character
+1. First non-repeating character
