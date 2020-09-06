@@ -3,3 +3,4 @@
 ## Solutions
 
 ## First non-repeating character
+## Simple Pig Latin
